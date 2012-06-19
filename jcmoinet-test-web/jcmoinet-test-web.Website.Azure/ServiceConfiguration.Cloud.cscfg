@@ -3,7 +3,7 @@
   <Role name="jcmoinet-test-web.Website">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=jcmoinettestweb;AccountKey=CP3FVrrDjkpjl/SEAWn+Md3gEPm1GwOuT21EFSEDaj6SKbjUax5xhCN1rqsyNDJ6SxbOFgHH7Ai1vcKWXVQATQ==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
